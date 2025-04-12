@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app-one
-        image: yassin06/inception_of_things_app:app1
+        image: yassin06/inception_of_things_app:app22
         ports:
         - containerPort: 8080
 
